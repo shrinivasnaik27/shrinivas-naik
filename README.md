@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/shrinivasnaik27/shrinivas-naik/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shrinivas Naik</h1>
 <h3 align="center">A passionate full-stack developer with strong intrest in artificial intelligence and developing AI powered applications from India</h3>
 
